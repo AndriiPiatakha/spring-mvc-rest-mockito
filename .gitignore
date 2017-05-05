@@ -8,5 +8,9 @@
 target
 *.iml
 
-
+/.settings
+.project
+.classpath
+.factorypath
 .idea
+/.apt_generated/
